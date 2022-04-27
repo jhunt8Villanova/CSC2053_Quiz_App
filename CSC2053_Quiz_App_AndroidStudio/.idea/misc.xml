@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< Updated upstream
         <entry key="..\:/Users/13032/git/CSC2053_Quiz_App/CSC2053_Quiz_App_AndroidStudio/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
         <entry key="..\:/Users/Jackj/Documents/GitHub/CSC2053_Quiz_App/CSC2053_Quiz_App_AndroidStudio/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Jackj/Documents/GitHub/CSC2053_Quiz_App/CSC2053_Quiz_App_AndroidStudio/app/src/main/res/layout/correct_answer.xml" value="0.264" />
         <entry key="..\:/Users/Jackj/Documents/GitHub/CSC2053_Quiz_App/CSC2053_Quiz_App_AndroidStudio/app/src/main/res/layout/wrong_answer.xml" value="0.2234375" />
+=======
+        <entry key="..\:/Users/13032/git/CSC2053_Quiz_App/CSC2053_Quiz_App_AndroidStudio/app/src/main/res/layout/activity_main.xml" value="0.1" />
+>>>>>>> Stashed changes
       </map>
     </option>
   </component>
