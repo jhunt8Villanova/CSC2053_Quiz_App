@@ -15,7 +15,15 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=
-                "com.example.CSC_2053_Quiz_App.MainActivity" />
+                "com.example.csc2053_quiz_app_androidstudio.MainActivity" />
+        </activity>
+        <activity android:name=".WrongAnswer"
+            android:label = "Wrong Answer"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=
+                    "com.example.csc2053_quiz_app_androidstudio.MainActivity" />
         </activity>
         <activity
             android:name=".MainActivity"
