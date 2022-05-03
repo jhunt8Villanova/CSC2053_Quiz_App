@@ -9,21 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CSC2053_Quiz_App_AndroidStudio">
-        <activity android:name=".CorrectAnswer"
+        <activity android:name=".EndScreen"
             android:label = "Correct Answer"
             android:parentActivityName=".MainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=
                 "com.example.csc2053_quiz_app_androidstudio.MainActivity" />
-        </activity>
-        <activity android:name=".WrongAnswer"
-            android:label = "Wrong Answer"
-            android:parentActivityName=".MainActivity">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value=
-                    "com.example.csc2053_quiz_app_androidstudio.MainActivity" />
         </activity>
         <activity
             android:name=".MainActivity"
